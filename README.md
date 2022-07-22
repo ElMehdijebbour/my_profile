@@ -73,6 +73,21 @@
 
 <br/>  
 
+### Analytics ⚙️
+  
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ElMehdijebbour" />
+  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+</p>  
+  
+<p align="left">
+<a href="https://github.com/ElMehdijebbour">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ElMehdijebbour&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMehdijebbour&layout=compact&langs_count=8&hide=HCL"/>
+</a>
+</p>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
 ## Connect with me  
 <div align="center">
@@ -86,18 +101,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElMehdijebbour&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-<br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
