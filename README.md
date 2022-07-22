@@ -1,16 +1,9 @@
-<img src="https://github.com/ElMehdijebbour/my_profile/blob/0c71f4224b50368a63d1d658fd2cdf92a2215558/wallhaven-4575j5%20(1)%20(1).png" align="center" style="width: 100%" />
+<img src="https://github.com/ElMehdijebbour/my_profile/blob/0c71f4224b50368a63d1d658fd2cdf92a2215558/wallhaven-4575j5%20(1)%20(1).png" align="center" style="width: 100%;hight:50%" />
 </div>  
   
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%" />
-</div>  
   
-
 ### <div align="center">I'm El Mehdi Jebbour Data Engineer  and Flutter developer 👨‍💻 </div>  
-  <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%" />
-</div>  
+
 
 - 🤖  Passionate about Computer Vision  
   
