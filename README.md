@@ -1,4 +1,4 @@
-<img src="https://github.com/ElMehdijebbour/my_profile/blob/0c71f4224b50368a63d1d658fd2cdf92a2215558/wallhaven-4575j5%20(1)%20(1).png" align="center" style="width: 100%;hight:50%" />
+<img src="https://github.com/ElMehdijebbour/my_profile/blob/0c71f4224b50368a63d1d658fd2cdf92a2215558/wallhaven-4575j5%20(1)%20(1).png" align="center" style="width: 100%;height:50%" />
 </div>  
   
   
@@ -93,7 +93,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElMehdijebbour&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <br/>  
 
 
