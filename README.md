@@ -101,7 +101,8 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ElMehdijebbour&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>  
 
@@ -118,6 +119,3 @@
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
