@@ -105,7 +105,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ElMehdijebbour&column=8&theme=onedark" />
 </div>
 <br/>
-    
+    <div align="center">   
  ![github contribution grid snake animation](https://github.com/ElMehdijebbour/my_profile/blob/ece8af8eb94c1e116e2245a1560d775b634a2374/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://github.com/ElMehdijebbour/my_profile/blob/ece8af8eb94c1e116e2245a1560d775b634a2374/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
   
