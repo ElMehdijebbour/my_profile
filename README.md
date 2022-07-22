@@ -83,44 +83,13 @@
 
 <br/>  
 
-### Analytics ⚙️
-  
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ElMehdijebbour&show_icons=true&theme=radical" />
-
-</p>  
-  
-<p align="left">
-<a href="https://github.com/ElMehdijebbour">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElMehdijebbour&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMehdijebbour&layout=compact&langs_count=8&hide=HCL"/>
-</a>
-</p>
-
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
-
- 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31f4ew27ublmp356idpo22vrl4je&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ElMehdijebbour&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
 ### GITHUB STATS 
 
 <diV>
-
+  <div align="center">
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ElMehdijebbour&show_icons=true&theme=radical" />
+   </div> 
+ 
   <div align="center">
     <a href="#"><img alt="El Mehdi Jebbour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ElMehdijebbour&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <a href="#"><img alt="Akshat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMehdijebbour&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
