@@ -103,8 +103,6 @@
 </a>  
 </div>  
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ElMehdijebbour&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31f4ew27ublmp356idpo22vrl4je&cover_image=true&theme=default" /></div>  
