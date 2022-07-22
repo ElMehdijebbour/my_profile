@@ -87,13 +87,12 @@
 
 <diV>
   <div align="center">
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ElMehdijebbour&show_icons=true&theme=radical" />
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ElMehdijebbour&show_icons=true&theme=react" />
    </div> 
- 
   <div align="center">
     <a href="#"><img alt="El Mehdi Jebbour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ElMehdijebbour&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-    <a href="#"><img alt="Akshat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMehdijebbour&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ElMehdijebbour&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
+    <a href="#"><img alt="El Mehdi Jebbour's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMehdijebbour&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ElMehdijebbour&label=Profile%20views&color=0e75b6&style=flat" alt="ElMehdijebbour" /> </p>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
