@@ -87,8 +87,9 @@
 
 <diV>
   <div align="center">
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ElMehdijebbour&show_icons=true&theme=react" />
+    <a href="#"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ElMehdijebbour&show_icons=true&theme=react" height="200"/></a>
    </div> 
+  
   <div align="center">
     <a href="#"><img alt="El Mehdi Jebbour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ElMehdijebbour&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <a href="#"><img alt="El Mehdi Jebbour's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMehdijebbour&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
