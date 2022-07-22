@@ -87,9 +87,7 @@
 
 <diV>
   <div align="center">
-    <a href="#"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ElMehdijebbour&show_icons=true&theme=react" height="200"/></a>
-    
-     <a href="#"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ElMehdijebbour&theme=react" height="200"/></a>
+    <a href="#"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ElMehdijebbour&show_icons=truee&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
    </div> 
   
   <div align="center">
