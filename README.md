@@ -111,9 +111,11 @@
   
 ![github contribution grid snake animation](https://github.com/ElMehdijebbour/my_profile/blob/ece8af8eb94c1e116e2245a1560d775b634a2374/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://github.com/ElMehdijebbour/my_profile/blob/ece8af8eb94c1e116e2245a1560d775b634a2374/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-  
+
+## Now Playing
+
 </div>
-## Now Playing 
+
 <div align="center">   
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4ew27ublmp356idpo22vrl4je&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
