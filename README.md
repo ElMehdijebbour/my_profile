@@ -88,6 +88,7 @@
 <diV>
   <div align="center">
     <a href="#"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ElMehdijebbour&show_icons=true&theme=react" height="200"/></a>
+    <a href="#">[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)</a>
    </div> 
   
   <div align="center">
