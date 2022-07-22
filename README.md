@@ -112,3 +112,5 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ElMehdijebbour/ElMehdijebbour/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
   
 </div>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
