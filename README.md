@@ -2,16 +2,17 @@
 </div>  
   
   
-### <div align="center">Hi 👋 I'm El Mehdi Jebbour Data Engineer  and Flutter developer 👨‍💻 From National Institute Of Posts And Telecommunications (INPT) passionate about the field of Data and Computer Vision with solid skills in data enginnering and mobile developement. I am an innovative person,flexible and motivated. I have dreams so I set goals.</div>  
+### <div align="center">Hi 👋 I'm El Mehdi Jebbour Systems and digital services engineer 👨‍💻 From National Institute Of Posts And Telecommunications (INPT) passionate about Computer Vision with solid skills in systems enginnering and mobile developement.
+</div>  
 
 
-- 🤖  Passionate about Computer Vision  
+- 🤖 Passionate about Computer Vision  
   
 
-- 💼 I have worked on different data science/engineering Projects  
+- 💼 I have worked on different systems engineering Projects  
   
 
-- ⚡ Fun fact: Data is the new Oil  
+- ⚡ The only way to go fast, is to go well 
   
 
 <br/>  
