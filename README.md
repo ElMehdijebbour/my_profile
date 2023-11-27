@@ -64,7 +64,7 @@
 
 <div align="center">   
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f4ew27ublmp356idpo22vrl4je&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31f4ew27ublmp356idpo22vrl4je&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)]]
   
   
 </div>
