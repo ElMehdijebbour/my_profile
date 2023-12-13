@@ -2,17 +2,20 @@
 </div>  
   
   
-### <div align="center">Hi 👋 I'm El Mehdi Jebbour Systems and digital services engineer 👨‍💻 From National Institute Of Posts And Telecommunications (INPT) passionate about Computer Vision with solid skills in systems enginnering and mobile developement.
+### <div align="center">Hello 👋, I'm El Mehdi Jebbour, a Systems and Digital Services Engineer 👨‍💻 from the National Institute Of Posts And Telecommunications (INPT) -Morocco. Currently, I am furthering my academic journey by pursuing an international master's degree in Research in Data and Intelligence for Smart Systems at the University Claude Bernard Lyon 1 -France.
 </div>  
 
 
-- 🤖 Passionate about Computer Vision  
+- 🤖 Passionate about Artificial Intelligence  
   
 
-- 💼 I have worked on different systems engineering Projects  
+- 💼 I have worked on different data and systems engineering projects  
   
 
-- ⚡ The only way to go fast, is to go well 
+- ⚡ The only way to go fast, is to go well
+
+
+- 🛢️ Data is the new oil!
   
 
 <br/>  
